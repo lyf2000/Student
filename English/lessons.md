@@ -261,3 +261,13 @@
 - commit the crime
 - innocence - невиновность
 - poorer people - малообеспеченные слои населения
+
+### 4A
+
+1. to prove
+2. carry out
+3. report
+4. appeal against
+5. pevious
+6. drugs
+7. down
