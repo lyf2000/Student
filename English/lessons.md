@@ -271,3 +271,53 @@
 5. pevious
 6. drugs
 7. down
+
+## Spring 2.3-2.6
+
+invade - вторгаться
+ultimately - в коцне концов
+prescribe - предписывать
+afford - позволить
+leash - поводок, связка
+unleash - развязать
+exploit - эксплуатировать
+daydream - грезы
+digest - обзор
+bear - нести
+whereas - в то время как
+for lack of - за неимением
+mindful of - учитывая, не забывая
+shortcoming - недостаток
+preamble - вступление, заголовок
+naming convention
+terse - немногословный, краткий
+aside from - помимо
+fit neatly - укладывается, вписывается
+bug - раздражает
+flaky - слоений
+leave out - пропустить, упустить
+bizarre - странный, причудливый
+reference
+peculiar - свокобразный, специфический
+considerably - значительно, заметно
+rendition - исполнение, толкование
+worth buying - стоящий покупки
+implications - вовлеченность, смысл, значение
+discard - отвергнуть
+belabor - долбить
+up to this point - вплоть до этого момента
+in light of
+debate - дискуссия, спор
+stand by - придерживаюсь
+succinct - краткий, лаконичный
+as a clue to - как подсказка для 
+shift out - сдвинуть
+exclusive - исключ, единственный
+unwieldy - громоздкий
+split it apart - разделить на части
+far cry - большая разница
+get out of hand - выходить из-под контроля
+inundate - затоплять
+flood - наводнение
+break apart - распасться
+bring together
