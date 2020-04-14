@@ -274,50 +274,106 @@
 
 ## Spring 2.3-2.6
 
-invade - вторгаться
-ultimately - в коцне концов
-prescribe - предписывать
-afford - позволить
-leash - поводок, связка
-unleash - развязать
-exploit - эксплуатировать
-daydream - грезы
-digest - обзор
-bear - нести
-whereas - в то время как
-for lack of - за неимением
-mindful of - учитывая, не забывая
-shortcoming - недостаток
-preamble - вступление, заголовок
-naming convention
-terse - немногословный, краткий
-aside from - помимо
-fit neatly - укладывается, вписывается
-bug - раздражает
-flaky - слоений
-leave out - пропустить, упустить
-bizarre - странный, причудливый
-reference
-peculiar - свокобразный, специфический
-considerably - значительно, заметно
-rendition - исполнение, толкование
-worth buying - стоящий покупки
-implications - вовлеченность, смысл, значение
-discard - отвергнуть
-belabor - долбить
-up to this point - вплоть до этого момента
-in light of
-debate - дискуссия, спор
-stand by - придерживаюсь
-succinct - краткий, лаконичный
-as a clue to - как подсказка для 
-shift out - сдвинуть
-exclusive - исключ, единственный
-unwieldy - громоздкий
-split it apart - разделить на части
-far cry - большая разница
-get out of hand - выходить из-под контроля
-inundate - затоплять
-flood - наводнение
-break apart - распасться
-bring together
+- invade - вторгаться
+- ultimately - в коцне концов
+- prescribe - предписывать
+- afford - позволить
+- leash - поводок, связка
+- unleash - развязать
+- exploit - эксплуатировать
+- daydream - грезы
+- digest - обзор
+- bear - нести
+- whereas - в то время как
+- for lack of - за неимением
+- mindful of - учитывая, не забывая
+- shortcoming - недостаток
+- preamble - вступление, заголовок
+- naming convention
+- terse - немногословный, краткий
+- aside from - помимо
+- fit neatly - укладывается, вписывается
+- bug - раздражает
+- flaky - слоений
+- leave out - пропустить, упустить
+- bizarre - странный, причудливый
+- reference
+- peculiar - свокобразный, специфический
+- considerably - значительно, заметно
+- rendition - исполнение, толкование
+- worth buying - стоящий покупки
+- implications - вовлеченность, смысл, значение
+- discard - отвергнуть
+- belabor - долбить
+- up to this point - вплоть до этого момента
+- in light of
+- debate - дискуссия, спор
+- stand by - придерживаюсь
+- succinct - краткий, лаконичный
+- as a clue to - как подсказка для 
+- shift out - сдвинуть
+- exclusive - исключ, единственный
+- unwieldy - громоздкий
+- split it apart - разделить на части
+- far cry - большая разница
+- get out of hand - выходить из-под контроля
+- inundate - затоплять
+- flood - наводнение
+- break apart - распасться
+- bring together
+
+## TEXT **END OF THE PARTY**
+
+- leisurely - неторопливый
+- coconut - кокос
+- grove - роща
+- pay the tab - опл  счет
+- hopped - охмеленный
+- headed to - направляться в
+- stopping en route to pick up - остановка по поути чтобы забрать
+- bogus - фиткивный, фальшивый
+- pipefuls - трубопроволы
+- pot - горшое - кмкость короче
+- climb back - забраться обратно
+- slow down - замедлиться
+- afterwards - позднее
+- dial a cell phone - наберите
+- hit gravel - ударил гравий
+- fishtailed out of control - 
+- sustain - потерпеть, пережить
+- pelvis - таз
+- lacerate - рвать, терзать, раздирать
+- rolleblade - роликовые коньки
+- early-evening - ранний вечер
+- north-bound lane(!) - северная границы переулка
+- veered on - повернул на
+- toss - бросать
+- motorist - автомобилист
+- weep - плакать, оплакивать
+- two days out of school - 2 дн неходил в шк
+- was sentenced - был приговорен
+- offender - правонарушитель
+- manslaughter - непредумышленное убийство
+- homicide - убийство
+- sobbed - всхлипывала
+- prosecutor - прокурор
+- assembly - собрание
+- scheduled for the fall
+- alarmed - встревожить, насторожить
+- affluent community - благополучное общество
+- fatal crash - катастрофа
+- cautionary tale - поучительная история
+- it highlighted the danger - это подчеркивало опасность
+- remorseful - полный раскаяния
+- willful - своевольно, умышленно
+- court - суд
+- at plea hearing - при слушании дела о признании вины
+- bystander - свиделетель, очевидец
+- dismiss - отбросить, отклонять
+- jinks - веселье, шутки
+- restraint - сдержанность
+- compassion - сострадание, сочувстие
+- bargain - сделка
+- press for 20 years
+- early release
+- retain final say
